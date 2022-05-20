@@ -1,5 +1,6 @@
-<h1>EXERCÍCIOS DO ROCKETSEAT</h1>
+<h1>ESTUDOS</h1>
 
+EXERCÍCIOS DO ROCKETSEAT
 Conversor de notas como exercício dos meus estudos de JavaScript do Rocketseat. 
 
 Transformando notas de 0 a 100 para A,B,C,D,F, e dando inválido nos demais casos. apartir da function converterNota()
