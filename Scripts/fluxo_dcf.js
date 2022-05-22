@@ -7,7 +7,7 @@ do tipo array
   * despesas []
   
 Depois, crie uma função que irá calcular o total
-de receiras e despensas e irá mostrar uma mensagem
+de rendimentos e despensas e irá mostrar uma mensagem
 se a família está com saldo positivo ou negativo,
 seguido do valor do saldo
 
