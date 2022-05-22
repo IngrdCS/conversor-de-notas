@@ -13,6 +13,9 @@ Transformando notas de 0 a 100 para A,B,C,D,F, e dando inválido nos demais caso
 inválido nos demais casos;
 
 
-Fluxo de gastos de uma familia script 2
+Fluxo de gastos de uma familia - Script 2
+
+Uso de funções para calcular gastos e ganhos.
+
 
 
