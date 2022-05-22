@@ -13,9 +13,14 @@ Transformando notas de 0 a 100 para A,B,C,D,F, e dando inválido nos demais caso
 inválido nos demais casos;
 
 
+
+
 Fluxo de gastos de uma familia - Script 2
 
 Uso de funções para calcular gastos e ganhos.
+Irá calcular o total de rendimentos e despensas e irá mostrar uma mensagem
+se a família está com saldo positivo ou negativo, seguido do valor do saldo.
+
 
 
 
