@@ -13,7 +13,7 @@ Transformando notas de 0 a 100 para A,B,C,D,F, e dando inválido nos demais caso
 inválido nos demais casos;
 
 
-
+<hr>
 
 Fluxo de gastos de uma familia - Script 2
 
