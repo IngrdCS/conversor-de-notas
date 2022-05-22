@@ -3,7 +3,7 @@
 
 Crie um objeto que possuirá 2 propriedades, ambas
 do tipo array 
-  * receitas []
+  * rendimentos []
   * despesas []
   
 Depois, crie uma função que irá calcular o total
