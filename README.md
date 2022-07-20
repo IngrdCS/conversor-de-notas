@@ -2,7 +2,9 @@
 
 EXERCÍCIOS DO ROCKETSEAT<br>
 <br>
-Conversor de notas como exercício dos meus estudos de JavaScript do Rocketseat. 
+
+
+1 - Conversor de notas como exercício dos meus estudos de JavaScript do Rocketseat. 
 
 Transformando notas de 0 a 100 para A,B,C,D,F, e dando inválido nos demais casos. apartir da function converterNota()
 <br>
@@ -16,12 +18,21 @@ inválido nos demais casos;
 
 <hr>
 
-Fluxo de gastos de uma familia - Script 2
+ 2 - Fluxo de gastos de uma familia - Script 2
 
 Uso de funções para calcular gastos e ganhos.
 Irá calcular o total de rendimentos e despensas e irá mostrar uma mensagem
 se a família está com saldo positivo ou negativo, seguido do valor do saldo.
 
+<br>
+<hr>
+
+3 - Manipulação de objects e arrays para aperfeiçoar o aprendizado.
+
+<br>
+<hr>
+
+4 - Manipulação de functions mais simples para aperfeiçoar o aprendizado. 
 
 
 
