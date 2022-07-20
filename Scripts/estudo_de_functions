@@ -6,7 +6,7 @@ let num2 = parseInt(prompt("Digite outro um numero"))
 opcaoMat = prompt("o que deseja fazer:\n 1- somar\n 2- subtrair\n 3- multiplicar\n 4- dividir")
 
 
-//criando as funções matematicas
+//criando as funções matematicas para usar 
 //somar
 function somar() {
     resultado = num1 + num2
